@@ -4,7 +4,7 @@ This Python script allows you to perform CRUD (Create, Read, Update, Delete) ope
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - MySQL Connector Python (Install using `pip install mysql-connector-python`)
 - MySQL Workbench
 
@@ -25,5 +25,5 @@ This Python script allows you to perform CRUD (Create, Read, Update, Delete) ope
 ## Usage Example
 
 ```bash
-python crud_operations.py
+      main.py
 
